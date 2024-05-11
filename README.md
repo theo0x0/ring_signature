@@ -3,6 +3,7 @@
 # Ring signature
 
 Used libraries: [EcPy](https://pypi.org/project/ECPy/)
+
 Curve: bn254, base points: (1, 2) and [G_2](https://github.com/theo0x0/bn_254_secp)
 
 
