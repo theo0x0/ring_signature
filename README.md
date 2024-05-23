@@ -2,6 +2,8 @@
 
 # Ring signature
 
+Scheme to authorize a member without revealing it's identity. Member's identity is hidden is the key image.
+
 Used libraries: [EcPy](https://pypi.org/project/ECPy/)
 
 Curve: bn254, base points: (1, 2) and [G_2](https://github.com/theo0x0/bn_254_gen)
